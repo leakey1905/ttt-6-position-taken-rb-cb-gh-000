@@ -5,5 +5,4 @@ def position_taken?(borad, index)
   else
     return false
   end
-
 end
